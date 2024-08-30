@@ -54,7 +54,7 @@
 
 ## 맨먼스 미신: 소프트웨어 공학에 관한 에세이
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea8dd16e-ce24-4633-b1ef-2f39a7414cd8/2c44417d-86cc-41c4-8302-54d002dc4726/image.png)
+![맨먼스 미신](https://image.yes24.com/momo/TopCate57/MidCate09/5688107.jpg)
 
 - 저자: 프레더릭 브룩스
 - 카테고리: 소프트웨어 공학
@@ -67,7 +67,7 @@
 
 ## 컴퓨터 네트워킹: 인터넷 중심의 하향식 접근
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea8dd16e-ce24-4633-b1ef-2f39a7414cd8/ccca821e-6d36-43a0-a445-be7732ee0732/image.png)
+![컴퓨터 네트워킹](https://image.yes24.com/goods/112228953/L)
 
 - 저자: Jamse F. Kuros, Keith W. Ross
 - 카테고리: 네트워크일반, 대학교재
@@ -80,7 +80,7 @@
 
 ## 네트워크 개론
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea8dd16e-ce24-4633-b1ef-2f39a7414cd8/1cf81000-5970-47ed-b58f-e53898e046c3/image.png)
+![네트워크 개론](https://image.yes24.com/goods/76073424/L)
 
 - 저자: 진혜진
 - 카테고리: 네트워크 일반, 대학교재
@@ -93,7 +93,7 @@
 
 ## 누워서 읽는 알고리즘
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea8dd16e-ce24-4633-b1ef-2f39a7414cd8/1d1b91d3-04ef-4bff-9cc3-b27648da92d4/image.png)
+![누워서 읽는 알고리즘](https://image.yes24.com/goods/22380570/L)
 
 - 저자: 임백준
 - 카테고리: 자료구조/알고리즘, 대학교재
@@ -106,7 +106,7 @@
 
 ## MSE 이산수학
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/ea8dd16e-ce24-4633-b1ef-2f39a7414cd8/8e2d5de6-087f-4858-b035-b9c686d8f632/image.png)
+![MSE 이산수학](https://image.yes24.com/goods/69408644/L)
 
 - 저자: 박두순
 - 카테고리: 전산통계/해석, 대학교재
@@ -119,6 +119,8 @@
 
 ## 자료구조
 
+![자료구조](https://image.yes24.com/goods/3062333/L)
+
 - 저자: 권오병
 - 카테고리: 자료구조
 - 날짜: 2023-11-10 ~ 2023-12-02
@@ -129,6 +131,8 @@
 ---
 
 ## 자바 트러블슈팅 : Scouter를 활용한 시스템 장애 진단 및 해결 노하우
+
+![자바 트러블슈팅](https://image.yes24.com/goods/84937877/L)
 
 - 저자: 이상민
 - 카테고리: 자바, 시스템 관리
